@@ -73,5 +73,5 @@ You will:
 
 - Learn how to organize GitLab Groups with multiple projects per microservice when developing and operating an N-Tier cloud native application
 
-
-Continue reading [here](https://iamvigneshc.medium.com/automating-devops-workflows-with-gitlab-and-terraform-6113400fa5c6)....
+<BR/>
+### Continue reading [here](https://iamvigneshc.medium.com/automating-devops-workflows-with-gitlab-and-terraform-6113400fa5c6)....
