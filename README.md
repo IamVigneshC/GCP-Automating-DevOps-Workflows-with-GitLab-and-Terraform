@@ -70,3 +70,8 @@ You will:
 <BR/>
 
 ### Continue reading [here](https://iamvigneshc.medium.com/automating-devops-workflows-with-gitlab-and-terraform-6113400fa5c6)....
+
+<BR/>
+Additional Reference:
+https://www.terraform.io/docs/index.html
+https://docs.gitlab.com/ee/ci/
