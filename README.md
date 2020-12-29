@@ -73,5 +73,5 @@ You will:
 
 <BR/>
 Additional Reference:
-https://www.terraform.io/docs/index.html
+https://www.terraform.io/docs/index.html <BR/>
 https://docs.gitlab.com/ee/ci/
