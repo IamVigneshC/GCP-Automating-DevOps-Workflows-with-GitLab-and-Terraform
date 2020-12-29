@@ -72,6 +72,6 @@ You will:
 ### Continue reading [here](https://iamvigneshc.medium.com/automating-devops-workflows-with-gitlab-and-terraform-6113400fa5c6)....
 
 <BR/>
-Additional Reference:<BR/>
+Additional References:<BR/>
 https://www.terraform.io/docs/index.html <BR/>
 https://docs.gitlab.com/ee/ci/
