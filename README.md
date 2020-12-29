@@ -4,12 +4,6 @@
 
 GitLab is a complete DevOps platform delivered as a single application. GitLab provides a single UI for development and operational teams within organizations to work concurrently throughout the application development to delivery life cycle. As a result of applications becoming more and more complex, organizations turn to automation, like CI/CD, in hopes to streamline processes. However, to increase reliability and consistency in automation beyond software development, more and more teams are resorting to declarative automation and their respective workflows in code and storing them in code repositories. Often and dynamically triggering automation as code to quickly iterate and deliver value into production is becoming more and more popular. This phenomenon is commonly known as GitOps, where tools such as Terraform and GitLab shine. 
 
-- Part I: The Process
-
-- Part II: The Infrastructure
-
-- Part III: The Applications
-
 Google Cloud provides scalable cloud infrastructure with managed services for various forms of compute, storage, networking, etc. With extensive open APIs, almost any and every aspect of the can be automated and managed via code the proper tools. Organizations looking to adopt cloud native solutions in an agile way need a better way to manage the inherent complexities when elastically scaling their services, breaking up monolithic applications, and securely operating at speed through cross functional teams. All of the prior has been the foundation of the DevOps transformation as we recognize today.
 
 The fundamental challenge DevOps attempts to address is the unification of Developer and Operator workflow. When automating the application development process, Continuous Integration / Continuous Delivery (CI/CD) is crucial in iteratively deploying code reliably, in a secure fashion from source code into production. When automating Infrastructure administration and provisioning, Infrastructure as Code (IaC) is an emerging method to quickly and reliably build deployment targets for applications. IaC enables practitioners to deploy infrastructure through declarative means and maintain the desired state and lifecycle of cloud resources.
