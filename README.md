@@ -20,6 +20,10 @@ GitLab is the single application that provides all of the necessary functionalit
 
 We will be using a sample application that we have called Vote-App which is representative of a N-Tier microservice architecture, containerized application that will be deployed to a Kubernetes cluster provided by GKE. Below is a high level overview of the sample application architecture:
 
+
+![Arch](https://github.com/IamVigneshC/GCP-Automating-DevOps-Workflows-with-GitLab-and-Terraform/blob/main/Resources/arch.png)
+
+
 __Vote UI:__ Is a python containerized microservice using flask to generate a front end UI for end users to place a ‘vote'. This service will be running on GKE.
 
 __Results UI:__ Is a NodeJs containerized microservice used to generate a front end UI for end users to see voting results. This service will be running on GKE.
@@ -53,6 +57,8 @@ You will start with only a single, pre-provisioned GKE cluster as a deployment t
   - Lastly, the services will then be deployed to Kubernetes and be accessible through a web endpoints by the end user.
   
 The workflow will be concerned with a single GitLab subgroup spanning multiple GitLab Projects outlined below. Each project listed below is a git repository with a .gitlab-ci.yml file already defined for an automated pipeline to execute upon code commit.
+
+![Arch](https://github.com/IamVigneshC/GCP-Automating-DevOps-Workflows-with-GitLab-and-Terraform/blob/main/Resources/Voting.png)
 
 
 ## Objectives
