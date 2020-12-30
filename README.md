@@ -74,4 +74,5 @@ You will:
 <BR/>
 Additional References:<BR/>
 https://www.terraform.io/docs/index.html <BR/>
-https://docs.gitlab.com/ee/ci/
+https://docs.gitlab.com/ee/ci/ <BR/>
+https://cloud.google.com/sdk/gcloud <BR/>
