@@ -76,3 +76,6 @@ Additional References:<BR/>
 https://www.terraform.io/docs/index.html <BR/>
 https://docs.gitlab.com/ee/ci/ <BR/>
 https://cloud.google.com/sdk/gcloud <BR/>
+https://docs.gitlab.com/ee/user/clusters/applications.html<BR/>
+https://www.terraform.io/docs/backends/types/gcs.html<BR/>
+https://docs.gitlab.com/ee/ci/parent_child_pipelines.html
